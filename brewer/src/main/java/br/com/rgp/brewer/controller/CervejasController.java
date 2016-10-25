@@ -36,14 +36,4 @@ public class CervejasController {
 		return "redirect:/cervejas/novo"; // redirect
 	}
 	
-	@RequestMapping("/cervejas/cadastro")
-	public String cadastro() {
-		return "cerveja/cadastro-produto";
-	}
-	
-	@RequestMapping("/gentelella/form")
-	public String form() {
-		return "cerveja/gentelella-form";
-	}
-	
 }
