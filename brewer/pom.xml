@@ -32,7 +32,7 @@
 		<thymeleaf-layout-dialect.version>2.0.4</thymeleaf-layout-dialect.version>
 		
 		<!-- Hibernate Validator -->
-		<hibernate-validator.version>5.2.4.Final</hibernate-validator.version>
+		<hibernate-validator.version>5.3.5.Final</hibernate-validator.version>
 		
 	</properties>
 
